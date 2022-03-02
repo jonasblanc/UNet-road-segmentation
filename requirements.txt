@@ -1,0 +1,4 @@
+pytorch=1.7.1
+pillow=8.4.0
+matplotlib=3.4.3
+scikit-learn=1.0.1
