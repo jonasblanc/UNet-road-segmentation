@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.pyc
+.DS_Store
+submission
+model_submission
+predictions_submission
+predictions_training
+__pycache__
+model
+data/.DS_Store
+__pycache__/
+predictions_submission/
+predictions_training/
+segment_aerial_images.ipynb
